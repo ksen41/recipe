@@ -4,7 +4,7 @@ salt 1/2
 1/2 avocado
 <<<<<<< HEAD
 tomato
-bread
+1 bread
 =======
 less salt
 >>>>>>> less-salt
