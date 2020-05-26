@@ -1,7 +1,7 @@
 
 avocado
 salt 1/2 
-4 avocado
+avocado
 tomato
 2  bread
 less salt
