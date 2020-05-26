@@ -1,10 +1,7 @@
 
 avocado
 salt 1/2 
-1/2 avocado
-<<<<<<< HEAD
+4 avocado
 tomato
-<<<<<<< HEAD
 2  bread
 less salt
->>>>>>> less-salt
